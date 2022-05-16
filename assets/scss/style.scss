@@ -1,0 +1,13 @@
+@import "_variables" ;
+@import "_encabezado" ;
+@import "_principal" ;
+@import "_pie";
+@import "_boton" ;
+
+
+
+.container-fluid {
+   padding-left: 100px;
+   padding-right: 100px;
+   background-color:  #17202A  ;
+}

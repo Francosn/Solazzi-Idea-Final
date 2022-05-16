@@ -1,0 +1,15 @@
+.boton {
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    border-radius: 15px
+
+}
+.boton_consulta {
+    @extend .boton  ;
+    width: 150px;
+    height: 40px;
+    
+}

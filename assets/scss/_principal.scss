@@ -1,0 +1,19 @@
+.principal {
+    background-color: $colorSecundario;
+    color: black;
+    padding: 35px;
+    .tarjeta {
+        padding: auto;
+        margin: auto;
+        font-family: $tipoLetra;
+    }
+    .infoCarrerra {
+        padding: 5px;
+        font-family: $tipoLetra;
+    }
+    .listado {
+        margin: 15px;
+        font-family: $tipoLetra;
+    }
+    
+}
