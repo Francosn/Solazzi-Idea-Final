@@ -1,30 +1,41 @@
 .encabezado {
   background-color: #17202A;
-  color: white; }
-  .encabezado .titulo {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif; }
+  color: white;
+}
+
+.encabezado .titulo {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
 
 .principal {
   background-color: #566573;
   color: black;
-  padding: 35px; }
-  .principal .tarjeta {
-    padding: auto;
-    margin: auto;
-    font-family: Georgia, "Times New Roman", Times, serif; }
-  .principal .infoCarrerra {
-    padding: 5px;
-    font-family: Georgia, "Times New Roman", Times, serif; }
-  .principal .listado {
-    margin: 15px;
-    font-family: Georgia, "Times New Roman", Times, serif; }
+  padding: 35px;
+}
+
+.principal .tarjeta {
+  padding: auto;
+  margin: auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.principal .infoCarrerra {
+  padding: 5px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.principal .listado {
+  margin: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
 
 .pie {
   text-align: center;
   background-color: #566573;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: black; }
+  color: black;
+}
 
 .boton, .boton_consulta {
   width: 100px;
@@ -32,13 +43,17 @@
   background-color: white;
   text-align: center;
   color: black;
-  border-radius: 15px; }
+  border-radius: 15px;
+}
 
 .boton_consulta {
   width: 150px;
-  height: 40px; }
+  height: 40px;
+}
 
 .container-fluid {
   padding-left: 100px;
   padding-right: 100px;
-  background-color: #17202A; }
+  background-color: #17202A;
+}
+/*# sourceMappingURL=style.css.map */
