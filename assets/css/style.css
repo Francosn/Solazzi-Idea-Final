@@ -51,6 +51,11 @@
   height: 40px;
 }
 
+.foto {
+  width: 250px;
+  height: 250px;
+}
+
 .container-fluid {
   padding-left: 100px;
   padding-right: 100px;
