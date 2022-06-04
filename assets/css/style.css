@@ -56,6 +56,11 @@
   height: 250px;
 }
 
+.fotocarousel {
+  height: 600px;
+  width: 650px;
+}
+
 .container-fluid {
   padding-left: 100px;
   padding-right: 100px;
